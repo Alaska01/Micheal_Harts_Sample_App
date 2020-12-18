@@ -8,6 +8,8 @@ gem 'sass-rails', '6.0.0'
 gem 'webpacker',  '4.2.2'
 gem 'turbolinks', '5.2.1'
 gem 'jbuilder',   '2.10.0'
+gem 'bcrypt', '3.1.13'
+gem 'hirb', '~> 0.7.3'
 gem 'bootsnap',   '1.4.6', require: false
 
 group :development, :test do
